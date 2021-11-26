@@ -20,4 +20,7 @@
 .topnav-right {
     float: right;
     margin-right: 100px;
+    font-size: 50px;
+    font-family:serif ;
+    font-weight: bold;
 }
