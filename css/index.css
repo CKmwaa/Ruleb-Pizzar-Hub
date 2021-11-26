@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    /* background-color: chocolate; */
+}
+#header{
+    margin-top: 100x;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color:;
+    background-image:url('../images/pizza 3.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    padding-top: 20px;
+}
+#header h1{
+    padding-top: 120px;
+}
+.topnav-right {
+    float: right;
+}
