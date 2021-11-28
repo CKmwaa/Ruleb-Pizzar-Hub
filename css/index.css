@@ -24,3 +24,12 @@
     font-family:serif ;
     font-weight: bold;
 }
+.Small{
+    float: left;
+}
+.Medium{
+    margin-left: 500px;
+}
+.Large{
+    margin-left: 880px;
+}
