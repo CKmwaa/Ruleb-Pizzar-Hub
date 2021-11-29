@@ -49,6 +49,9 @@
     text-align: center;
     padding-top: 30px;
     padding-bottom: 30px;
+    background-image:url('../images/pizza 3.jpg');
+}
+#Contact{
     background: rgb(236, 152, 55);
 }
 .contacts{
