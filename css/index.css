@@ -26,6 +26,7 @@
 }
 #menu{
     padding-top: 30px;
+    padding-bottom: 30px;
     color: black;
     text-align: center;
     background: rgb(236, 152, 55);
@@ -46,13 +47,19 @@
     padding-top: 300px;
 }
 #order{
+    font-size: 40px;
+    font-weight:lighter ;
+    color: black;
+    font-style: oblique;
     text-align: center;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    /* padding-top: 100px; */
+    padding-bottom: 300px;
     background-image:url('../images/pizza 3.jpg');
+    height: 30vh;
 }
 #Contact{
     background: rgb(236, 152, 55);
+    padding-top: 50px;
 }
 .contacts{
     text-align: center;
