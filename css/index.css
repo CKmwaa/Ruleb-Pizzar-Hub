@@ -32,17 +32,24 @@
 }
 .Small{
     float: left;
+    padding-top:10px;
+    margin-left: 40px;
 }
 .Medium{
-    margin-left: 500px;
+    /* margin-left:800px; */
+    padding-top: 10px;
+    float: right;
 }
 .Large{
-    margin-left: 880px;
+    /* margin-left: 800px; */
+    text-align: center;
+    padding-top: 300px;
 }
 #order{
     text-align: center;
     padding-top: 30px;
     padding-bottom: 30px;
+    background: rgb(236, 152, 55);
 }
 .contacts{
     text-align: center;
