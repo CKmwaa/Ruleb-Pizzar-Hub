@@ -2,6 +2,13 @@
     margin: 0px;
     /* background-color: chocolate; */
 }
+.topnav-right {
+    float: right;
+    margin-right: 100px;
+    font-size: 50px;
+    font-family:serif ;
+    font-weight: bold;
+}
 #header{
     margin-top: 100x;
     text-align: center;
@@ -17,13 +24,7 @@
 #header h1{
     padding-top: 120px;
 }
-.topnav-right {
-    float: right;
-    margin-right: 100px;
-    font-size: 50px;
-    font-family:serif ;
-    font-weight: bold;
-}
+
 #menu{
     padding-top: 30px;
     padding-bottom: 30px;
@@ -49,13 +50,16 @@
 #order{
     font-size: 40px;
     font-weight:lighter ;
-    color: black;
+    color:white;
     font-style: oblique;
     text-align: center;
     /* padding-top: 100px; */
     padding-bottom: 300px;
-    background-image:url('../images/pizza 3.jpg');
+    background-image:url('../images/pizza\ 6.jpg');
+    background-repeat:repeat-x;
+    background-position: 100vh;
     height: 30vh;
+    /* width: 100vh; */
 }
 #Contact{
     background: rgb(236, 152, 55);
