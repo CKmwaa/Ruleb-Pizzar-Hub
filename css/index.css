@@ -43,5 +43,10 @@
     margin-left: 100px;
 }
 .email{
-    margin-left: 650px;
+    margin-left: 750px;
+}
+.feedback{
+text-align: end;
+margin-right: 80px;
+font-size: 30px;
 }
