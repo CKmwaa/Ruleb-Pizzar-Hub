@@ -13,7 +13,7 @@ cd into project folder
 Go to live server
 
 ### Live link
-
+https://ckmwaa.github.io/Ruleb-Pizzar-Hub/
 
 ### Requirements
 
